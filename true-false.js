@@ -5,6 +5,7 @@
 //undefined
 //null
 //NaN
+//every number is truthy other than 0, every string is truthy other than empty string
 
 //Truthy:
 //'0', ' ', []
